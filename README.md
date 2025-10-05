@@ -24,11 +24,11 @@ It includes **season statistics, team performance, player achievements, and year
 
 ## 📸 Dashboard Screenshots
 ### Season Overview
-
+https://github.com/Girwarbanna/IPL-Analysis-Dashboard-2008-2025/blob/main/Screenshot%201.png
 ### Year-wise Trends
-
+https://github.com/Girwarbanna/IPL-Analysis-Dashboard-2008-2025/blob/main/Screenshot%202.png
 ### City & Player Insights
-
+https://github.com/Girwarbanna/IPL-Analysis-Dashboard-2008-2025/blob/main/Screenshot%203.png
 
 ## 📈 Key Insights
 - 🏆 **2025 Winner:** Royal Challengers Bangalore  
@@ -51,5 +51,5 @@ It includes **season statistics, team performance, player achievements, and year
 This project demonstrates the power of **Power BI in Sports Analytics**.  
 It can be extended to predict match outcomes, player performance, and fan engagement metrics.
 
-📢 Connect with me on [LinkedIn](#) for collaboration!
+📢 Connect with me on [(https://www.linkedin.com/in/ravindra-singh-483300288/)] for collaboration!
 
